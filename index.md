@@ -19,7 +19,7 @@ When you register use the Application, you generally provide:
 1. Your user name, email, and other registration information
 1. Transaction-related information, such as when you make purchases, respond to any offers, or download or use applications from us
 1. Information you provide us when you contact us for help
-1. Credit card information for purchase and use of the Application
+1. Credit card information for purchase and use of the Application (payment information is stored with the service provider)
 1. Information you enter into our system when using the Application, such as contact information
 
 We may also use the information you provided us to contact your from time to time to provide you with important information, and required notices.
