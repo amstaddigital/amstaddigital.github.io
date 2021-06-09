@@ -2,6 +2,7 @@
 layout: default
 ---
 
+
 This privacy policy will explain how our organization uses the personal data we collect from you when you use our applications.
 
 Topics:
@@ -20,8 +21,6 @@ Topics:
 * Changes to our privacy policy
 * How to contact us
 * How to contact the appropriate authorities
-
-[Link to another page](./another-page.html).
 
 # What data do we collect?
 
