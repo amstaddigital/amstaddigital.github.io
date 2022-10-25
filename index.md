@@ -44,15 +44,15 @@ We may disclose User Provided and Automatically Collected Information:
 
 ## What are my opt-out rights?
 
-You can stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your device or via the application marketplace or network. You can also request to opt-out via email, at [privacy@amstaddigital.com](mailto:privacy@amstaddigital.com).
+You can stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your device or via the application marketplace or network. You can also request to opt-out via email, at [privacy@amstad.digital](mailto:privacy@amstad.digital).
 
 ## Data Retention Policy, Managing Your Information
 
-We will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. We will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you’d like us to delete User Provided Data that you have provided via the Application, please contact us at [privacy@amstaddigital.com](mailto:privacy@amstaddigital.com) and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
+We will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. We will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you’d like us to delete User Provided Data that you have provided via the Application, please contact us at [privacy@amstad.digital](mailto:privacy@amstad.digital) and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
 
 ## Children
 
-We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that their child has provided us with information without their consent, they should contact us at [privacy@amstaddigital.com](mailto:privacy@amstaddigital.com). We will delete such information from our files within a reasonable time.
+We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that their child has provided us with information without their consent, they should contact us at [privacy@amstad.digital](mailto:privacy@amstad.digital). We will delete such information from our files within a reasonable time.
 
 ## Security
 
@@ -66,8 +66,8 @@ This privacy policy was last updated on 9 June 2021
 
 ## Your Consent
 
-By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing" means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the United States your information will be transferred, processed and stored there under United States privacy standards.
+By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing" means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the United States your information will be transferred, processed and stored there.
 
 ## Contact us
 
-If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at [privacy@amstaddigital.com](mailto:privacy@amstaddigital.com).
+If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at [privacy@amstad.digital](mailto:privacy@amstad.digital).
